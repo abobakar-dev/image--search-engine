@@ -163,7 +163,7 @@ form button:focus {
 }
 
 .download-btn:hover {
-  background: #ffffff;
-  color: rgb(60, 70, 129);
+  background: rgb(60, 70, 129);
+  color: #ffffff;
   transform: scale(1.08);
 }
