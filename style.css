@@ -93,6 +93,7 @@ form button:focus {
 
 #show-more-btn:hover {
   background-color: rgb(48, 56, 107);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
   transform: translateY(-1px);
 }
 
